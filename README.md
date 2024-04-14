@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SairajGujar
 - 👀 I’m interested in Full stack web developement
 - 🌱 I’m currently learning Nextjs
-- 📫 How to reach me sairajgujar2000@gmail.com, Instagram - iamsaigujar_18
+- 📫 How to reach me sairajgujar2000@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
